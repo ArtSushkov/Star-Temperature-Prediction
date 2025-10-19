@@ -30,7 +30,7 @@ from phik.report import plot_correlation_matrix
 warnings.filterwarnings("ignore", category=FutureWarning)
 
 
-# === Собственные функции и класс ===
+# === Собственные функции ===
 
 def extended_describe(df, name="DataFrame"):
     """
@@ -723,4 +723,5 @@ def vif(X, font_size=12):
     # ax.bar_label(ax.containers[0], fmt='%.2f', padding=3, fontsize=font_size)
 
     plt.tight_layout()
+
     plt.show()
