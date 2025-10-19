@@ -19,8 +19,8 @@ Star-Temperature-Prediction/
 │
 ├── .gitignore
 ├── LICENSE
-├── requirements.txt
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ## Стек технологий
