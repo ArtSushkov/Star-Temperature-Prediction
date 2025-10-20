@@ -15,7 +15,7 @@ Star-Temperature-Prediction/
 │
 ├── notebooks/
 │   ├── star_temperature_prediction.ipynb  # Основная тетрадка проекта
-│   └── utils.py                          # Вспомогательные функции
+│   └── utils.py                           # Вспомогательные функции
 │
 ├── .gitignore
 ├── LICENSE
